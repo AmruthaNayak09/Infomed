@@ -1,0 +1,17 @@
+id,name,dob,age,gender,weight,height,bmi,blood_pressure,heart_rate,blood,blood_glucose,allergies,med_history,email,phone,visit_date,past_visits,prescriptions,image
+20250624002,Venkatesh,1/18/2000,25,Male,75,153,32.03895937,120/81,91,A+,121,dairy,none,venky12@gmail.com,1234567890,6/24/2025,past_no,Nephrocare - 12 days - Before Food - 1-0-0,/faces/Venkatesh/front.jpg
+20250624003,N A Nayak,4/7/1969,56,Male,72,153,30.757401,120/82,91,A+,122,cashew,wheezing,nayak07@gmail.com,1234567890,6/24/2025,past_no,Nephrocare - 12 days - Before Food - 1-0-0,/faces/N A Nayak/front.jpg
+20250624004,Veena Nayak,6/28/1972,52,Female,68,153,29.0486565,120/83,91,AB+,123,almonds,none,veena28@gmail.com,1234567890,6/24/2025,past_no,Nephrocare - 12 days - Before Food - 1-0-0,/faces/Veena Nayak/front.jpg
+20250624005,Janis,12/17/2003,21,Female,56,153,23.922423,120/84,91,AB-,124,dairy,wheezing,janiy12@gfeil.com,1234567890,6/24/2025,past_no,Nephrocare - 12 days - Before Food - 1-0-0,/faces/Janis/front.jpg
+20250624006,Ranjana,9/22/2004,20,Female,53,153,22.64086462,120/85,91,O+,125,cashew,none,ranjy12@gfeil.com,1234567890,6/24/2025,past_no,Nephrocare - 12 days - Before Food - 1-0-0,/faces/Ranjana/front.jpg
+20250624007,Sowmya,6/9/2004,21,Female,50,153,21.35930625,120/86,91,B+,126,almonds,wheezing,sowmy12@gfeil.com,1234567890,6/24/2025,past_no,Nephrocare - 12 days - Before Food - 1-0-0,/faces/Sowmya/front.jpg
+20250624008,Mehnaaz,7/2/2004,20,Female,47,153,20.07774787,120/87,91,O+,127,dairy,none,mehny12@gfeil.com,1234567890,6/24/2025,past_no,Nephrocare - 12 days - Before Food - 1-0-0,/faces/Mehnaaz/front.jpg
+20250624009,Vaishnavi,11/29/2004,20,Female,63,153,26.91,120/88,91,A+,128,cashew,wheezing,vaisy12@gfeil.com,1234567890,6/24/2025,past_no,Nephrocare - 12 days - Before Food - 1-0-0,/faces/Vaishnavi/front.jpg
+20250624010,Manoj,11/29/2004,20,Male,78,153,33.32051775,120/89,91,A+,129,almonds,none,manoy12@gmail.com,1234567890,6/24/2025,past_no,Nephrocare - 12 days - Before Food - 1-0-0,/faces/Manoj/front.jpg
+20250624011,Rohan Giri,3/9/2002,23,Male,71,153,30.33021487,120/90,91,AB+,130,dairy,wheezing,rohay12@gmail.com,1234567890,6/24/2025,past_no,Nephrocare - 12 days - Before Food - 1-0-0,/faces/Rohan Giri/front.jpg
+20250624012,sinchana,12/18/2003,21,Female,60,153,25.6311675,120/91,91,AB-,131,cashew,none,sincy12@gfeil.com,1234567890,6/24/2025,past_no,Nephrocare - 12 days - Before Food - 1-0-0,/faces/sinchana/front.jpg
+20250624013,devishree,9/28/2003,21,Female,41,153,17.51463112,120/92,91,O+,132,almonds,wheezing,deviy12@gfeil.com,1234567890,6/24/2025,past_no,Nephrocare - 12 days - Before Food - 1-0-0,/faces/devishree/front.jpg
+20250624014,Chandana,6/13/2004,21,Female,60,153,25.6311675,120/93,91,B+,133,dairy,none,chany12@gfeil.com,1234567890,6/24/2025,past_no,Nephrocare - 12 days - Before Food - 1-0-0,/faces/Chandana/front.jpg
+20250624015,ayesha,9/12/2004,20,Female,56,153,23.922423,120/94,91,O+,134,cashew,wheezing,ayesy12@gfeil.com,1234567890,6/24/2025,past_no,Nephrocare - 12 days - Before Food - 1-0-0,/faces/ayesha/front.jpg
+20250624016,abhiman,8/8/2003,21,Male,50,153,21.35930625,120/95,91,A+,135,almonds,none,abhiy12@gmail.com,1234567890,6/24/2025,past_no,Nephrocare - 12 days - Before Food - 1-0-0,/faces/abhiman/front.jpg
+20250701016,Amrutha,2004-11-09,20,Female,72,154,30.36,120/80,91,AB+,120,none,none,nayakamrutha5@gmail.com,9241148849,7/1/2025,past_yes,Nephrocare - 12 days - Before Food - 0-1-0|Lasix - 8 days - After Food - 1-0-1,/faces/Amrutha/front.jpg
